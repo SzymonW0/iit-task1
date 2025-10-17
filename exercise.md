@@ -2,24 +2,24 @@ Will AI Take Our Jobs?
 
 CAUTION: This is AI-generated overview on the given topic.
 
-TL;DR: AI won’t replace all jobs, but it will reshape tasks within most jobs, speed up some careers, diminish others, and create new roles. The outcome depends on how we adopt AI, how quickly we reskill, and which policies we put in place.
+**TL;DR**: AI won’t replace all jobs, but it will reshape **tasks** within most jobs, speed up some careers, diminish others, and create new roles. The outcome depends on how we adopt AI, **how** quickly we **reskill**, and which **policies** we put in place.
 
 ---
 
 1) The wrong question: jobs vs. tasks
 
-When people ask “Will AI take our jobs?”, they usually imagine whole occupations disappearing. History (electricity, PCs, the internet) suggests something subtler: technologies automate tasks, which changes job content, productivity, and demand. That’s why economists talk about task-level automation rather than job-level extinction.
+When people ask “Will AI take our jobs?”, they usually imagine whole occupations disappearing. History (electricity, PCs, the internet) suggests something subtler: technologies **automate tasks**, which changes **job content, productivity**, and **demand**. That’s why economists talk about task-level automation rather than job-level extinction.
 
-- Automation: AI directly performs parts of the work (e.g., summarizing emails, drafting text, classifying support tickets).  
-- Augmentation: AI helps humans do the work faster or better (e.g., code suggestions, data cleaning assistants).  
-- Reallocation: Time saved on automated tasks shifts to higher‑value activities (customer interaction, design, problem solving).
+- **Automation**: AI directly performs parts of the work (e.g., summarizing emails, drafting text, classifying support tickets).  
+- **Augmentation**: AI helps humans do the work faster or better (e.g., code suggestions, data cleaning assistants).  
+- **Reallocation**: Time saved on automated tasks shifts to higher‑value activities (customer interaction, design, problem solving).
 
 A good rule of thumb:
 
-| Today’s reality | What changes with AI |
+| **Today’s reality** | **What changes with AI** |
 |---|---|
 | Jobs are bundles of many tasks. | Some tasks get automated; the rest rise in relative importance. |
-| Experience → productivity gains. | AI can compress the experience curve for juniors. |
+| Experience → productivity gains. | **AI can compress the experience curve for juniors.** |
 | Skills decay without practice. | Continuous learning + AI tools becomes part of the job. |
 
 Key idea: Tasks are automated; jobs are redesigned.
