@@ -126,3 +126,5 @@ AI will **take parts of many jobs** and **create parts of new jobs**. Some roles
 [^imfblog]: Georgieva, K. (2024). AI Will Transform the Global Economy. Let’s Make Sure It Benefits Humanity. IMF Blog.  
 [^ilo]: ILO (2023). Generative AI and Jobs: A global analysis of potential effects on job quantity and quality.  
 [^oecd]: OECD (2023). Employment Outlook: Artificial
+[^wef2025]: WEF (2025) – Future of Jobs Report.
+[^mgi2024]: McKinsey Global Institute (2024) – A New Future of Work
