@@ -1,4 +1,4 @@
-**Will AI Take Our Jobs?**  
+# Will AI Take Our Jobs?
 
 >CAUTION: This is AI-generated overview on the given topic.
 
@@ -6,7 +6,7 @@
 
 ---
 
-**1) The wrong question: jobs vs. tasks**
+## 1) The wrong question: jobs vs. tasks
 
 When people ask “Will AI take our jobs?”, they usually imagine whole occupations disappearing. History (electricity, PCs, the internet) suggests something subtler: technologies **automate tasks**, which changes **job content, productivity**, and **demand**. That’s why economists talk about task-level automation rather than job-level extinction.
 
@@ -26,7 +26,7 @@ A good rule of thumb:
 
 ---
 
-**2) What the best recent evidence says**
+## 2) What the best recent evidence says
 
 **Short‑term productivity effects (micro evidence)**.  
 - A large field study in a Fortune 500 contact center found that giving agents a generative‑AI assistant increased **issues resolved per hour by ~14%**, with the **biggest gains for the least‑experienced agents**—and better customer sentiment.[^nber]  
@@ -37,7 +37,7 @@ A good rule of thumb:
 - An **ILO** global analysis (using ISCO data + GPT‑4 task mapping) suggests most occupations are **more exposed to augmentation than full automation**; clerical work shows the highest automation exposure.[^ilo]  
 - The **OECD Employment Outlook** finds early deployments more often **change job quality and tasks** than reduce employment outright—so far. Effects on job quantity may lag adoption.[^oecd]
 
-**Forecasts (always uncertain).**  
+## Forecasts (always uncertain).
 - The **WEF Future of Jobs 2025** projects ~**170 million jobs created** and ~**92 million displaced** globally by 2030 (a **net +78 million**), driven by tech, green transition, and demographics. Skills needs will shift toward AI/data, cybersecurity, and adaptability.[^wef2025]  
 - **McKinsey** modeling suggests ~**27–30% of hours** in Europe/US could be automated by 2030 (genAI accelerates this), implying millions of **occupational transitions** and a major **skills upgrade** agenda.[^mgi2024]
 
@@ -45,7 +45,7 @@ A good rule of thumb:
 
 ---
 
-**3) Who’s at risk, who benefits?**
+## 3) Who’s at risk, who benefits?
 
 **Higher exposure (declining demand without reskilling):**  
 - Routine office support & clerical roles (data entry, scheduling, basic reporting).  
@@ -61,18 +61,18 @@ A good rule of thumb:
 
 ---
 
-**4) What actually changes inside a job?**
+## 4) What actually changes inside a job?
 
 1. **Time allocation** shifts: less rough‑drafting, more reviewing, prompting, verifying.  
 2. **Quality bars** rise: if AI drafts “good enough”, human value moves to **problem framing, data/context curation, taste,** and **verification**.  
 3. **Skills portfolio** updates: promptcraft, toolchain literacy (APIs, automation), security/privacy hygiene, critical reading of AI output.  
 4. Metrics change: throughput and cycle time improve; judgement errors (hallucinations, misclassifications) become the new bottlenecks to manage.
 
->**Design principle for teams**: Automate the boring, amplify the human.
+>**Design principle for teams**: *Automate the boring, amplify the human*.
 
 ---
 
-**5) What should you (a first‑year IT student) do?**
+## 5) What should you (a first‑year IT student) do?
 
 - **Master the basics of data + automation**: get comfortable with CSVs, APIs, and workflow tools (n8n, GitHub Actions).  
 - **Practice “prompt → verify → ship”**: use AI to draft, but always check sources, test outputs, and document assumptions.  
@@ -90,7 +90,7 @@ A simple checklist for any AI‑assisted task:
 
 ---
 
-**6) Policy and management levers (why this matters for outcomes)**
+## 6) Policy and management levers (why this matters for outcomes)
 
 - **Reskilling at scale** (short, modular programs) to help workers cross into rising occupations.  
 - **Job redesign**: let humans own goals and judgement, while AI handles defined sub‑tasks.  
@@ -101,13 +101,13 @@ A simple checklist for any AI‑assisted task:
 
 ---
 
-**7) So… will AI take our jobs?**
+## 7) So… will AI take our jobs?
 
 AI will **take parts of many jobs** and **create parts of new jobs**. Some roles will shrink; others will grow; almost all will **change**. If you learn to **use** the tools, **validate** their output, and **ship** work that combines AI scale with human judgement, you’re positioning yourself on the opportunity side of that change.
 
 ---
 
-**References & further reading**
+### References & further reading
 
 - **WEF – Future of Jobs Report 2025** (summary & figures; jobs created/displaced, skills): https://www.weforum.org/stories/2025/01/future-of-jobs-report-2025-jobs-of-the-future-and-the-skills-you-need-to-get-them/  
 - **IMF (Kristalina Georgieva) – “AI Will Transform the Global Economy”** (40% of jobs exposed; policy framing): https://www.imf.org/en/Blogs/Articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity  
@@ -119,7 +119,7 @@ AI will **take parts of many jobs** and **create parts of new jobs**. Some roles
 
 ---
 
-**Endnotes (inline citations)**
+### Endnotes (inline citations)
 
 [^nber]: Brynjolfsson, E. et al. (2023). Generative AI at Work. NBER Working Paper w31161.  
 [^noyzhang]: Noy, S. & Zhang, W. (2023). Experimental Evidence on the Productivity Effects of Generative AI. MIT Working Paper.  
